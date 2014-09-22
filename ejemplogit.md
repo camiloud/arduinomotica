@@ -19,5 +19,5 @@ dog's back.
 >
 > ## This is an H2 in a blockquote
 *que buena contribucion
-*como fue???
-*subir un commit
+>como fue???
+>subir un commit........
